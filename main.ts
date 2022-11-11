@@ -1,6 +1,6 @@
 /**
  * makecode四位数显示(TM1650)包.
- * http://www.robot.com
+ * http://www.loborobot.com
  */
 
 /**

@@ -5,8 +5,8 @@
 四位数码管电路，基于microbot扩展板上，为7段四位数码管带点，可以显示数字，支持小数点显示
 ，内置TM1650驱动芯片，采用IIC总线控制。
 
-编辑: Dennis  
-时间: 2022年11月8日  
+编辑:   
+时间: 2022年11月11日  
 
 ![](https://raw.githubusercontent.com/microbit-makecode-packages/TM1650/master/icon.png)
 
@@ -14,7 +14,7 @@
 
 打开你的Makecode 编程环境，在扩展中复制如下链接： 
 
-https://github.com/denglh008/TM1650  
+https://github.com/denglh007/TM1650  
 
 输入到搜索框进行搜索。
 
@@ -56,11 +56,11 @@ https://github.com/denglh008/TM1650
 
 MIT
 
-广州科技有限公司
+智能科技有限公司
 
 ## Supported targets  
 
 * for PXT/microbit
 
 
-[广州科技有限公司](www.robot.com)
+[智能科技有限公司](www.airobot.com)
